@@ -59,7 +59,7 @@ These steps should resolve the network error. If issues persist, contact me for 
 **Snapshots:**
 Here are some snapshots of the Online Marketplace:
 - **Home Page:** ![Home Page](homepage.png)
-- **Product Page:** ![Product Page]([products page.png](https://github.com/Nomesh88/Online-MarketPlace/blob/main/products%20page.png))
+- **Product Page:** ![Product Page]([products page.png](productspage.png))
 - **Profile Page:** ![Profile Page](profilepage.png)
 - **Seller Dashboard:** ![Seller Dashboard](sellerdashboard.png)
 
